@@ -4,8 +4,8 @@ Welcome to my second public front-end project!
 
 This is a simple yet effective static page introducing the core pillars of front-end development: **HTML**, **CSS**, and **JavaScript**. I built it using only HTML and CSS to practice structuring content, styling elements, and writing clean code.
 
-🔗 **Live demo:** [Click here](https://theowari.github.io/PLACEHOLDER-I-WILL-FIX-IT/)  
-💻 **Repo:** [github.com/theowari/NomeDoRepositorio](https://github.com/theowari/PLACEHOLDER-I-WILL-FIX-IT)
+🔗 **Live demo:** [Click here](https://theowari.github.io/FrontEnd-101/)  
+💻 **Repo:** [github.com/theowari/FrontEnd-101](https://github.com/theowari/FrontEnd-101)
 
 ---
 
