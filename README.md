@@ -1,0 +1,2 @@
+# FrontEnd 101
+A beginner-friendly webpage to introduce the fundamentals of front-end development: HTML, CSS and JavaScript.  This was built as part of my learning process using only HTML and CSS. All the content is written in a casual and educational tone, aiming to help others who are also starting their journey into web development.  ✨ My first step into building educational mini projects on the web!
